@@ -76,8 +76,8 @@ export const BuyNowModal = ({ isOpen, onClose }: BuyNowModalProps) => {
       setTimeout(() => {
         setSuccess(false);
         onClose();
-      }, 4000);
-    }, 120000); // ⬅️ 120 SECONDS (2 minutes)
+      }, 3000);
+    }, 2000); // ⬅️ 120 SECONDS (2 minutes)
   };
 
   const handleClose = () => {
