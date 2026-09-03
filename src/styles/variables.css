@@ -1,0 +1,39 @@
+:root {
+  /* ---- PALETTE 1: WELLNESS PREMIUM ---- */
+  --color-bg: #FAF8F5;        /* warm off‑white */
+  --color-primary: #9CAF88;   /* sage green */
+  --color-secondary: #2D2D2D; /* deep charcoal */
+  --color-accent: #D4A853;    /* warm gold */
+  --color-text: #2D2D2D;      /* same as secondary */
+  --color-white: #FFFFFF;
+  --color-border: #E8E2D9;
+
+  /* ---- SPACING ---- */
+  --spacing-xs: 0.25rem;    /* 4px */
+  --spacing-sm: 0.5rem;     /* 8px */
+  --spacing-md: 1rem;       /* 16px */
+  --spacing-lg: 2rem;       /* 32px */
+  --spacing-xl: 4rem;       /* 64px */
+  --spacing-xxl: 6rem;      /* 96px */
+
+  /* ---- TYPOGRAPHY ---- */
+  --font-heading: 'Poppins', sans-serif;
+  --font-body: 'Inter', sans-serif;
+
+  --text-xs: 0.75rem;
+  --text-sm: 0.875rem;
+  --text-base: 1rem;
+  --text-lg: 1.125rem;
+  --text-xl: 1.25rem;
+  --text-2xl: 1.5rem;
+  --text-3xl: 2rem;
+  --text-4xl: 2.5rem;
+  --text-5xl: 3rem;
+
+  /* ---- SHADOWS & BORDERS ---- */
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.06);
+  --shadow-lg: 0 8px 24px rgba(0, 0, 0, 0.08);
+  --radius: 8px;
+  --radius-lg: 16px;
+}
